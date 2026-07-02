@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vĩ</h1>
-<h3 align="center">A Software Engineering Student from Vietnam 🇻🇳</h3>
+<h3 align="center">A mobile developer from Vietnam 🇻🇳</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=500&lines=Android+Developer;Java+Developer;Always+Learning+New+Things" />
@@ -12,7 +12,7 @@
 - 🎓 Student at **FPT Polytechnic**
 - 💻 Learning **Android Development**
 - 🌱 Currently learning **Java, Android, HTML, CSS, JavaScript**
-- 🗄️ Working with **SQLite**
+- 🗄️ Working with **SQLite,SQL sever**
 - 📍 Hanoi, Vietnam
 - 🎯 Goal: Become an Android Developer
 
