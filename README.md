@@ -12,7 +12,7 @@
 - 🎓 Student at **FPT Polytechnic**
 - 💻 Learning **Android Development**
 - 🌱 Currently learning **Java, Android, HTML, CSS, JavaScript**
-- 🗄️ Working with **SQLite,SQL sever**
+- 🗄️ Working with **SQLite,SQL sever,MongoDb**
 - 📍 Hanoi, Vietnam
 - 🎯 Goal: Become an Android Developer
 
